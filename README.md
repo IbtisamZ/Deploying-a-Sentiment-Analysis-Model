@@ -10,4 +10,5 @@ The notebook and Python files provided here, once completed, result in a simple 
 
 <img src = "examples/example1.png" width = 500>
 ------------------------------------------------
+
 <img src = "examples/example2.png" width = 500>
