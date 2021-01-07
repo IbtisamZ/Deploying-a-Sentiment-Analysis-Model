@@ -10,5 +10,5 @@ Please see the [README](https://github.com/udacity/sagemaker-deployment/tree/mas
 
 ### Result
 
-<img src = "examples/review1.png" width = 400>
-<img src = "examples/review2.png" width = 400>
+<img src = "examples/review1.jpg" width = 400>
+<img src = "examples/review2.jpg" width = 400>
